@@ -14,7 +14,7 @@ Main features:
 Clone the repository:
 
 ```
-git clone https://github.com/yourusername/transliteration.git
+git clone https://github.com/colescu/transliteration.git
 cd transliteration
 ```
 
